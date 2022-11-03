@@ -1,3 +1,5 @@
+<a href="auth/register.php">Register</a> <br>
+<a href="auth/login.php">login</a>
 <?php
 
 // public
