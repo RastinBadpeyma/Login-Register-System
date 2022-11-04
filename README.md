@@ -1,2 +1,1 @@
-# simple-login-register
-this is a simple login/register OOP
+this is a simple Login/Register System (OOP)
